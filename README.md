@@ -10,7 +10,7 @@ Download the files in a directory and follow the below guide inorder to add the 
 https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
 
 # Credits
-WenchSilencer relies on the following wenches domain list:
+WenchSilencer relies on the following wenches domain list:<br/>
 https://github.com/Bon-Appetit/porn-domains/blob/master/domains.txt
 
 
